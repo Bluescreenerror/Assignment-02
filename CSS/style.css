@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+}
+.input, .buttons, div {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e9e9e9;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+select {
+    padding: 10px;
+    margin-top: 20px;
+}
